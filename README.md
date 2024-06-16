@@ -6,8 +6,8 @@
 <br />
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlphaH7&label=Profile%20views&color=0e75b6&style=flat" alt="alistier-x" /> </p> -->
 
-<div align="center"><a href="https://www.alistier.dev/"> 👨‍💻 Portfolio Website </a> &nbsp - &nbsp <a href="https://www.alistier.dev/Portfolio-Alistier_X.pdf">📁 Resume</a></div>
-<div align="center"><a href="https://www.linkedin.com/in/alistier-x/">💼 Linkedin</a> &nbsp - &nbsp <a href="https://www.alistier.dev/contact/">🤙 Get in Touch</a></div>
+<div align="center"><a target="_blank" href="https://www.alistier.dev/"> 👨‍💻 Portfolio Website </a> &nbsp - &nbsp <a target="_blank" href="https://www.alistier.dev/Portfolio-Alistier_X.pdf">📁 Resume</a></div>
+<div align="center"><a target="_blank" href="https://www.linkedin.com/in/alistier-x/">💼 Linkedin</a> &nbsp - &nbsp <a target="_blank" href="https://www.alistier.dev/contact/">🤙 Get in Touch</a></div>
 
 <br />
 <h3 align="center">
