@@ -2,7 +2,7 @@
     Hi 👋, You found me <br />
 </h3>
 <h1 align="center">I'm Alistier X. <br /> </h1>
-<h3 align="center">Software / AI Developer</h3>
+<h3 align="center">Software / AI / ML-Ops Engineer</h3>
 <br />
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlphaH7&label=Profile%20views&color=0e75b6&style=flat" alt="alistier-x" /> </p> -->
 
